@@ -1,8 +1,8 @@
 # ChatApplication-LemonTalk
 
-![Project Image](<p>
+!<p>
     <img width="336" alt="Screenshot 2022-06-06 at 18 33 18" src="https://user-images.githubusercontent.com/50590112/172214932-74894279-703a-44bc-b284-188c10f77d50.png">
-    </p>)
+ </p>
 
 ---
 
