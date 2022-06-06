@@ -23,6 +23,7 @@ It allows users to have multiple chats.
 #### Technologies
 
 - C++
+- MySQL
 - QT creator
 - QT design
 - MQTT methods
