@@ -17,7 +17,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 This project is Chat Application named "Lemon Talk". 
-It allows users to have multiple chats. 
+It allows users to create/delete accounts and have chatting with other users. 
 
 
 #### Technologies
