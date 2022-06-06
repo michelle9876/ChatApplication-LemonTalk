@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Edit.png</file>
+        <file>Lemon_Logo.png</file>
+        <file>Logo.png</file>
+        <file>Register.png</file>
+        <file>Search.png</file>
+        <file>Send.png</file>
+        <file>Settings.png</file>
+        <file>Sign.png</file>
+        <file>User.png</file>
+        <file>Wallpaper.png</file>
+        <file>settingpage.png</file>
+        <file>Add_Icon.png</file>
+        <file>Refresh.png</file>
+    </qresource>
+</RCC>
