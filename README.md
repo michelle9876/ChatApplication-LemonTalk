@@ -1,6 +1,6 @@
 # ChatApplication-LemonTalk
 
-!<p>
+<p>
     <img width="336" alt="Screenshot 2022-06-06 at 18 33 18" src="https://user-images.githubusercontent.com/50590112/172214932-74894279-703a-44bc-b284-188c10f77d50.png">
  </p>
 
@@ -35,7 +35,9 @@ It allows users to have multiple chats.
 ## Features
 
 #### Log In
-![Login Image](<img width="330" alt="Screenshot 2022-06-06 at 20 41 44" src="https://user-images.githubusercontent.com/50590112/172235646-b01c19dc-4d64-4830-be81-f942b526a4c4.png">)
+<p>
+    <img width="330" alt="Screenshot 2022-06-06 at 20 41 44" src="https://user-images.githubusercontent.com/50590112/172235646-b01c19dc-4d64-4830-be81-f942b526a4c4.png">
+</p>
 
 
 ```html
